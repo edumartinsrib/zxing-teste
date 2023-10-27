@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/ZXingWriter.dir/ZXingWriter.cpp.o  -o ZXingWriter  -Wl,-rpath,/home/eduardo/Documentos/Projetos/zxing-cpp/core: ../core/libZXing.so.2.1.0 

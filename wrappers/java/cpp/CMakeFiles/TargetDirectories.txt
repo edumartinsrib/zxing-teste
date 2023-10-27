@@ -1,0 +1,14 @@
+/home/eduardo/Documentos/Projetos/zxing-cpp/wrappers/java/cpp/CMakeFiles/install/strip.dir
+/home/eduardo/Documentos/Projetos/zxing-cpp/wrappers/java/cpp/CMakeFiles/install/local.dir
+/home/eduardo/Documentos/Projetos/zxing-cpp/wrappers/java/cpp/CMakeFiles/install.dir
+/home/eduardo/Documentos/Projetos/zxing-cpp/wrappers/java/cpp/CMakeFiles/list_install_components.dir
+/home/eduardo/Documentos/Projetos/zxing-cpp/wrappers/java/cpp/CMakeFiles/rebuild_cache.dir
+/home/eduardo/Documentos/Projetos/zxing-cpp/wrappers/java/cpp/CMakeFiles/edit_cache.dir
+/home/eduardo/Documentos/Projetos/zxing-cpp/wrappers/java/cpp/CMakeFiles/ZXingJava.dir
+/home/eduardo/Documentos/Projetos/zxing-cpp/wrappers/java/cpp/ZXing/CMakeFiles/install/strip.dir
+/home/eduardo/Documentos/Projetos/zxing-cpp/wrappers/java/cpp/ZXing/CMakeFiles/install/local.dir
+/home/eduardo/Documentos/Projetos/zxing-cpp/wrappers/java/cpp/ZXing/CMakeFiles/edit_cache.dir
+/home/eduardo/Documentos/Projetos/zxing-cpp/wrappers/java/cpp/ZXing/CMakeFiles/install.dir
+/home/eduardo/Documentos/Projetos/zxing-cpp/wrappers/java/cpp/ZXing/CMakeFiles/list_install_components.dir
+/home/eduardo/Documentos/Projetos/zxing-cpp/wrappers/java/cpp/ZXing/CMakeFiles/rebuild_cache.dir
+/home/eduardo/Documentos/Projetos/zxing-cpp/wrappers/java/cpp/ZXing/CMakeFiles/ZXing.dir

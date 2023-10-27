@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/ZXingReader.dir/ZXingReader.cpp.o  -o ZXingReader  -Wl,-rpath,/home/eduardo/Documentos/Projetos/zxing-cpp/core: ../core/libZXing.so.2.1.0 

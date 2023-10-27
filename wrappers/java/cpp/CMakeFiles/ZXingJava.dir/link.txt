@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libZXingJava.so -o libZXingJava.so CMakeFiles/ZXingJava.dir/BarcodeReader.cpp.o CMakeFiles/ZXingJava.dir/JNIUtils.cpp.o  ZXing/libZXing.a -pthread 
